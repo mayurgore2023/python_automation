@@ -1,5 +1,5 @@
 
-# application for task schedular 
+# application for task schedular :
 
 import schedule
 import time
